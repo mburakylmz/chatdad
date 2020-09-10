@@ -1,0 +1,17 @@
+{
+  "name": "chatdad",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Burak Yılmaz"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/mburakylmz/chatdad",
+  "dependencies": {
+    "angular": "^1.8.0"
+  }
+}
